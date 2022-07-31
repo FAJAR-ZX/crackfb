@@ -7,6 +7,8 @@ $ pkg install git
 
 
 $ pkg install python
+
+
 $ pkg install play-audio 
 
 
