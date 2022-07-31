@@ -26,4 +26,4 @@ $ cd crackfb
  $ python edwinfajar.py
  
  
- SELAMAT MENCOBA GUYSS:)
+ SELAMAT MENCOBA GUYSS:) ke 
